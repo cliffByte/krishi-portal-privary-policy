@@ -85,6 +85,11 @@ While using Our Application, in order to provide features of Our Application, We
     Location of user device (precise location ).ACCESS_FINE_LOCATION is use to get precise location of user.
     Location of device is use to get soil test and knowledge data from current location, this help your to know their soil details from their current location.
 
+    Information regarding media access
+    Our app, Connect Kisan, requests access to your device’s images and videos (READ_MEDIA_IMAGES and READ_MEDIA_VIDEO) to enable media upload from disease report to that user can report any type of disease with image or video to us. This access is essential to provide the core functionality of the app.
+    We do not share your media files with third parties without your explicit consent. Media access is used only locally or securely uploaded to our servers for service delivery.
+    You can revoke media access anytime via your device settings
+
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
 You can enable or disable access to this information at any time, through Your Device settings.
